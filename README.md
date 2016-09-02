@@ -14,7 +14,7 @@ npm install --save videojs-contrib-hls.js
 ```
 
 ### CDN
-Get the latest stable version from the [CDN](https://npmcdn.com/videojs-contrib-hls.js)
+Get the latest stable version from the [CDN](https://unpkg.com/videojs-contrib-hls.js)
 
 ### Releases
 Download a release of [videojs-contrib-hls](https://github.com/peer5/videojs-contrib-hls.js/releases)
